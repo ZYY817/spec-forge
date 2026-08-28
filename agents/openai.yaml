@@ -1,0 +1,4 @@
+interface:
+  display_name: "需求定锚器 / Requirement Anchor"
+  short_description: "Turn messy context into clear, actionable, testable requirements"
+  default_prompt: "First understand the request, discuss unresolved points when needed, then produce a clear and testable requirement document in the user's language."
